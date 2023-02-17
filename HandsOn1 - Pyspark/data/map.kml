@@ -1,0 +1,15 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+                    <Document>
+                        <Placemark><name>10</name><ExtendedData><Data name="DayWeek"><value>Saturday</value></Data><Data name="Hour"><value>0</value></Data><Data name="Criticality"><value>0.622107969151671</value></Data></ExtendedData><Point><coordinates>2.185206,41.384875</coordinates></Point></Placemark>
+<Placemark><name>19</name><ExtendedData><Data name="DayWeek"><value>Sunday</value></Data><Data name="Hour"><value>3</value></Data><Data name="Criticality"><value>0.415041782729805</value></Data></ExtendedData><Point><coordinates>2.186697,41.398181</coordinates></Point></Placemark>
+<Placemark><name>18</name><ExtendedData><Data name="DayWeek"><value>Sunday</value></Data><Data name="Hour"><value>3</value></Data><Data name="Criticality"><value>0.4568245125348189</value></Data></ExtendedData><Point><coordinates>2.186700,41.398258</coordinates></Point></Placemark>
+<Placemark><name>1</name><ExtendedData><Data name="DayWeek"><value>Thursday</value></Data><Data name="Hour"><value>0</value></Data><Data name="Criticality"><value>0.4581005586592179</value></Data></ExtendedData><Point><coordinates>2.180019,41.397978</coordinates></Point></Placemark>
+<Placemark><name>11</name><ExtendedData><Data name="DayWeek"><value>Sunday</value></Data><Data name="Hour"><value>0</value></Data><Data name="Criticality"><value>0.4986072423398329</value></Data></ExtendedData><Point><coordinates>2.183622,41.385394</coordinates></Point></Placemark>
+<Placemark><name>8</name><ExtendedData><Data name="DayWeek"><value>Sunday</value></Data><Data name="Hour"><value>0</value></Data><Data name="Criticality"><value>0.41225626740947074</value></Data></ExtendedData><Point><coordinates>2.183453,41.389044</coordinates></Point></Placemark>
+<Placemark><name>28</name><ExtendedData><Data name="DayWeek"><value>Tuesday</value></Data><Data name="Hour"><value>1</value></Data><Data name="Criticality"><value>0.5085227272727273</value></Data></ExtendedData><Point><coordinates>2.181989,41.407033</coordinates></Point></Placemark>
+<Placemark><name>25</name><ExtendedData><Data name="DayWeek"><value>Tuesday</value></Data><Data name="Hour"><value>9</value></Data><Data name="Criticality"><value>0.46733668341708545</value></Data></ExtendedData><Point><coordinates>2.171817,41.392531</coordinates></Point></Placemark>
+<Placemark><name>9</name><ExtendedData><Data name="DayWeek"><value>Friday</value></Data><Data name="Hour"><value>22</value></Data><Data name="Criticality"><value>0.6258389261744967</value></Data></ExtendedData><Point><coordinates>2.185294,41.385006</coordinates></Point></Placemark>
+<Placemark><name>26</name><ExtendedData><Data name="DayWeek"><value>Tuesday</value></Data><Data name="Hour"><value>1</value></Data><Data name="Criticality"><value>0.42329545454545453</value></Data></ExtendedData><Point><coordinates>2.180325,41.400008</coordinates></Point></Placemark>
+
+                    </Document>
+                </kml>
